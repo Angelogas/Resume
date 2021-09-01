@@ -46,6 +46,9 @@ body {
   border-spacing: 0;
   margin: 0;
 }
+span {
+  color: #0077b5;
+}
 table {
   border-spacing: 0.3rem 1rem;
 }
